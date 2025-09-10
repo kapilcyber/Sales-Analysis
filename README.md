@@ -40,10 +40,6 @@ This repository contains an in-depth analysis of Diwali sales in India, providin
 2. Run the `Sales_Analysis.ipynb` notebook after placing `Diwali-Sales-Data.csv` in the working directory.
 3. Follow instructions and visualizations for step-by-step insights.
 
-## Authors
-
-- [Your Name Here]
-
 ## License
 
 This project is licensed under the MIT License.
