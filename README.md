@@ -1,5 +1,4 @@
 # Sales-Analysis
-# Diwali Sales Analysis
 
 ## Overview
 
